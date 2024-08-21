@@ -1,0 +1,12 @@
+COLUMNS:
+  Cow : object 
+  Date : object 
+  Daily Hay Dry matter (kg): float
+  hay intake fresh : float
+
+  
+
+
+TARGET_COLUMN:
+  Body Weight (kg): float
+  
